@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prashant Rathour</h1>
-<h3 align="center">MERN Developer</h3>
+<h3 align="center">Full Stack Web Developer</h3>
 <img align="right" alt="coading" width="400" src="https://th.bing.com/th/id/R.54e37d8074ebcde1d96c77d7b2a7f310?rik=fX3JSCseIbYcKA&pid=ImgRaw&r=0"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prashantrathour&label=Profile%20views&color=0e75b6&style=flat" alt="prashantrathour" /> </p>
 
@@ -12,7 +12,7 @@
 - 💬 Ask me about **Java Script | HTML | CSS | React | Json Server | Chakra UI | Redux |Post men | API**
 
 - 📫 How to reach me **prathour@gmail.com**
-- ✨ Resent project Link=>https://prashantinfinity.netlify.app/
+- ✨ Recent project Link=>https://prashantinfinity.netlify.app/
 
 
 <h3 align="left">Connect with me:</h3>
