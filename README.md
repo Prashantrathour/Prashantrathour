@@ -9,10 +9,11 @@
 
 - 👯 I’m looking to collaborate on [Cool Cloth(Koovs.Com)](https://github.com/MSaifKhan01/deeply-time-4287)
 
-- 💬 Ask me about **Java Script | HTML | CSS | React | Json Server | Chakra UI | Redux |Post men | API**
+- 💬 Ask me about **Advance Java Script | HTML5 | CSS | React | Json Server | Chakra UI | Redux |Post men | API | DSA**
 
 - 📫 How to reach me **prathour@gmail.com**
-- ✨ Recent project Link=>https://prashantinfinity.netlify.app/
+- ✨ Recent project Link-1=>https://prashantinfinity.netlify.app/
+- ✨ Recent project Link-2=>https://storied-gumption-752ad0.netlify.app/
 
 
 <h3 align="left">Connect with me:</h3>
