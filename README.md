@@ -3,7 +3,7 @@
 <img align="right" alt="coading" width="400" src="https://th.bing.com/th/id/R.54e37d8074ebcde1d96c77d7b2a7f310?rik=fX3JSCseIbYcKA&pid=ImgRaw&r=0"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prashantrathour&label=Profile%20views&color=0e75b6&style=flat" alt="prashantrathour" /> </p>
 
-- 🔭 I’m currently working on [Infinity(MYNTRA.COM)](https://github.com/Prashantrathour/premium-grade-140)
+- 🔭 I have currently working on [Infinity(MYNTRA.COM)](https://github.com/Prashantrathour/premium-grade-140)
 
 - 🌱 I’m currently learning **Redux**
 
@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Advance Java Script | HTML5 | CSS | React | Json Server | Chakra UI | Redux |Post men | API | DSA**
 
-- 📫 How to reach me **prathour@gmail.com**
+- 📫 How to reach me **prathour884@gmail.com**
 - ✨ Recent project Link-1=>https://prashantinfinity.netlify.app/
 - ✨ Recent project Link-2=>https://storied-gumption-752ad0.netlify.app/
 
