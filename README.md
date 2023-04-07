@@ -3,15 +3,15 @@
 <img align="right" alt="coading" width="400" src="https://th.bing.com/th/id/R.54e37d8074ebcde1d96c77d7b2a7f310?rik=fX3JSCseIbYcKA&pid=ImgRaw&r=0"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prashantrathour&label=Profile%20views&color=0e75b6&style=flat" alt="prashantrathour" /> </p>
 
-- 🔭 I have currently working on [Infinity(MYNTRA.COM)](https://github.com/Prashantrathour/premium-grade-140)
+- 🔭 Check my recent project [Infinity(MYNTRA.COM)](https://github.com/Prashantrathour/premium-grade-140)
 
 - 🌱 I’m currently learning **Redux**
 
-- 👯 I’m looking to collaborate on [Cool Cloth(Koovs.Com)](https://github.com/MSaifKhan01/deeply-time-4287)
+- 👯 This is my collabrative project [Cool Cloth(Koovs.Com)](https://github.com/MSaifKhan01/deeply-time-4287)
 
 - 💬 Ask me about **Advance Java Script | HTML5 | CSS | React | Json Server | Chakra UI | Redux |Post men | API | DSA**
 
-- 📫 How to reach me **prathour884@gmail.com**
+- 📫 How to reach me **prathour884@gmail.com    Mob. +91 6393277345**
 - ✨ Recent project Link-1=>https://prashantinfinity.netlify.app/
 - ✨ Recent project Link-2=>https://storied-gumption-752ad0.netlify.app/
 
