@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Prashant Rathour</h1>
-<h3 align="center">Full Stack Web Developer</h3>
+<h1 align="center">Hi 👋, I'm Prashant Rathour (Full Stack Web Developer)</h1>
+<p align="center" > <img src="https://camo.githubusercontent.com/16b07e558a3129eb16f2981f04b9d5215046565e4dab6b023404c991e4e940a2/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d3f666f6e743d466972612b436f64652670617573653d3130303026636f6c6f723d3534413646462663656e7465723d74727565267643656e7465723d74727565266d756c74696c696e653d747275652677696474683d373130266865696768743d3730266c696e65733d57656c636f6d652b746f2b6d792b4769744875622b50726f66696c653b492b616d2b612b70617373696f6e6174652b66756c6c2d737461636b2b736f6674776172652b656e67696e6565722b66726f6d2b496e646961" alt="prashantrathour" /> </p>
+<!-- <h3 align="center">Full Stack Web Developer</h3> -->
 <img align="right" alt="coading" width="400" src="https://th.bing.com/th/id/R.54e37d8074ebcde1d96c77d7b2a7f310?rik=fX3JSCseIbYcKA&pid=ImgRaw&r=0"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prashantrathour&label=Profile%20views&color=0e75b6&style=flat" alt="prashantrathour" /> </p>
 
