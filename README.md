@@ -4,7 +4,7 @@
 <img align="right" alt="coading" width="400" src="https://th.bing.com/th/id/R.54e37d8074ebcde1d96c77d7b2a7f310?rik=fX3JSCseIbYcKA&pid=ImgRaw&r=0"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prashantrathour&label=Profile%20views&color=0e75b6&style=flat" alt="prashantrathour" /> </p>
 
-- 🔭 Check my recent project [Infinity(MYNTRA.COM)](https://github.com/Prashantrathour/premium-grade-140)
+- 🔭 Check my recent project https://github.com/Prashantrathour/premium-grade-140
 
 - 🌱 I’m currently learning **Redux**
 
@@ -20,6 +20,7 @@
 <h3 align="left">👇Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/prashant-rathour-web-developer/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/prashant-rathour-66758b174/" height="30" width="40" /></a>
+  Portfolio:-https://prashantrathour.github.io/
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
