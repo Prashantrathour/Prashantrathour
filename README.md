@@ -19,12 +19,84 @@
 
 <h3 align="left">👇Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/prashant-rathour-web-developer/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/prashant-rathour-66758b174/" height="30" width="40" /></a>
-  Portfolio:-https://prashantrathour.github.io/
+<a href="https://www.linkedin.com/in/prashant-rathour-web-developer/" target="blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" height="40" />
+          </a>
+  <a href="https://prashantrathour.github.io/">
+<img src="https://th.bing.com/th?id=OSK.4e2a4b62b0c1b9bf23c6bbc4f94ca8ac&w=188&h=132&c=7&o=6&pid=SANGAM" width="60" height="30" />
+ </a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left" > <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://ia802807.us.archive.org/24/items/github.com-chakra-ui-chakra-ui_-_2020-02-13_17-20-29/cover.jpg" alt="Chakra Ui" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer">  </a><img src="https://code.visualstudio.com/assets/images/code-stable.png" alt="react" width="40" height="40"/><img src="https://cdn2.iconfinder.com/data/icons/document-file-flat/64/File_Document_Doc_Folder_JSON-512.png" alt="react" width="60" height="50"/><a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a><img src="https://www.manejandodatos.es/wp-content/uploads/2015/03/typescript.png" width="40" height="40"/></p>
+<!-- <p align="left" >
+
+         
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+  <img src="https://ia802807.us.archive.org/24/items/github.com-chakra-ui-chakra-ui_-_2020-02-13_17-20-29/cover.jpg" alt="Chakra Ui" width="40" height="40"/> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"  width="40" height="40"/>
+  </a>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="50" height="50" background="red" />
+           <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer">  </a><img src="https://code.visualstudio.com/assets/images/code-stable.png" alt="react" width="40" height="40"/><img src="https://cdn2.iconfinder.com/data/icons/document-file-flat/64/File_Document_Doc_Folder_JSON-512.png" alt="react" width="60" height="50"/><a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a><img src="https://www.manejandodatos.es/wp-content/uploads/2015/03/typescript.png" width="40" height="40"/></p> -->
+<h1>Languages</h1>
+
+- HTML
+- CSS
+- JavaScript
+- TypeScript
+
+<p aline="left>
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="40" height="40">
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="40" height="40">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg"  width="40" height="40" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="40" height="40">
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" width="40" height="40">
+</p>
+
+## Libraries/Frameworks
+
+- React
+- Redux
+- Cypress
+- Node.js
+- Express.js
+- Tailwind CSS
+- Chakra UI
+- MongoDB
+- JSON Server
+<p aline="left style="background-color: #f2f2f2;" >
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="40" height="40">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="40" height="40">
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png" width="40" height="40">
+<img src="https://media.slid.es/avatars/1098231/Cypress_Logomark_Color_Dark_BG.jpg" width="60" height="50">
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" width="40" height="40">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" width="40" height="40" />
+          
+
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="40" height="40" />
+<img src="https://ia802807.us.archive.org/24/items/github.com-chakra-ui-chakra-ui_-_2020-02-13_17-20-29/cover.jpg" alt="Chakra Ui" width="40" height="40"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>
+<img src="https://cdn2.iconfinder.com/data/icons/document-file-flat/64/File_Document_Doc_Folder_JSON-512.png" alt="react" width="60" height="50"/>
+</p>
+<h1>Tools</h1>
+
+- Visual Studio Code
+- GitHub
+- Git
+- Postmen
+- Canva
+<p aline="left>
+  
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" width="40" height="40"/>        
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="40" height="40">
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width="40" height="40">
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" width="40" height="40">
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="40" height="40" />
+</p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prashantrathour&show_icons=true&locale=en&layout=compact" alt="prashantrathour" /></p>
 
