@@ -103,3 +103,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prashantrathour&show_icons=true&locale=en" alt="prashantrathour" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prashantrathour&" alt="prashantrathour" /></p>
+<p><img align="center" src="https://contribution.catsjuice.com/_/prashantrathour?chart=3dbar&gap=0.6&scale=2&flatten=1&animation=mess&animation_duration=4&animation_loop=true&format=svg&weeks=1200&theme=red&widget_size=medium&dark=true" height="200" width=500" alt="prashantrathour" /></p>
+<p><img align="center" src="https://contribution.catsjuice.com/_/prashantrathour?chart=3dbar&gap=0.6&scale=2&flatten=0&weeks=30&theme=green&dark=true" height="200" width=500" alt="prashantrathour" /></p>
