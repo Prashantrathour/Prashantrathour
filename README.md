@@ -4,17 +4,24 @@
 <img align="right" alt="coading" width="400" src="https://th.bing.com/th/id/R.54e37d8074ebcde1d96c77d7b2a7f310?rik=fX3JSCseIbYcKA&pid=ImgRaw&r=0"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prashantrathour&label=Profile%20views&color=0e75b6&style=flat" alt="prashantrathour" /> </p>
 
-- 🔭 Check my recent project https://github.com/Prashantrathour/premium-grade-140
+- 🔭 Check my recent project [Tradehub_codebase](https://github.com/Prashantrathour/stoic-sack-3017)
 
-- 🌱 I’m currently learning **Redux**
+- 🌱 I’m currently learning **Next.js**
 
 - 👯 This is my collabrative project [Cool Cloth(Koovs.Com)](https://github.com/MSaifKhan01/deeply-time-4287)
 
 - 💬 Ask me about **Advance Java Script | TypeScript | HTML5 | CSS | React | Json Server | Chakra UI | Redux |Post men | API | DSA**
 
-- 📫 How to reach me **prathour884@gmail.com    Mob. +91 6393277345**
-- ✨ Recent project Link-1=>https://prashantinfinity.netlify.app/
-- ✨ Recent project Link-2=>https://storied-gumption-752ad0.netlify.app/
+- 📫 How to reach me
+    * prathour884@gmail.com
+     * Mob. +91 6393277345
+     * [PortFolio](https://prashantrathour.github.io/)
+     * [Resume](https://drive.google.com/file/d/1cUEsLyp-gXO2SihaTYf16W2CyhGviVFx/view?usp=sharing)
+  
+  ## Recent Project
+   * ✨  [Tradehub_deploy_link](https://tradehub.netlify.app/)
+   * ✨ [Infinity Deploy link](https://prashantinfinity.netlify.app/)
+   * ✨  [Cool-Clothes Deploy link](https://storied-gumption-752ad0.netlify.app/)
 
 
 <h3 align="left">👇Connect with me:</h3>
