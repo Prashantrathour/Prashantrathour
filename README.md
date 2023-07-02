@@ -104,4 +104,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prashantrathour&show_icons=true&locale=en" alt="prashantrathour" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prashantrathour&" alt="prashantrathour" /></p>
-<p><img align="center" src="https://contribution.catsjuice.com/_/prashantrathour?chart=3dbar&gap=0.6&scale=2&flatten=0&weeks=50&theme=green&dark=true" height="200" width="500" alt="prashantrathour" /></p>
+<p><img align="center" src="https://contribution.catsjuice.com/_/prashantrathour?chart=3dbar&gap=0.6&scale=2&flatten=0&format=svg&quality=10&weeks=33&theme=green&dark=true" alt="prashantrathour" /></p>
