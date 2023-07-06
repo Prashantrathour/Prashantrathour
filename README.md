@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Next.js**
 
-- 👯 This is my collabrative project [Cool Cloth(Koovs.Com)](https://github.com/MSaifKhan01/deeply-time-4287)
+- 👯 This is my collaborative project [Tradehub](https://tradehub.netlify.app/)
 
 - 💬 Ask me about **Advance Java Script | TypeScript | HTML5 | CSS | React | Json Server | Chakra UI | Redux |Post men | API | DSA**
 
