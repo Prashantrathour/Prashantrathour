@@ -18,10 +18,16 @@
      * [PortFolio](https://prashantrathour.github.io/)
      * [Resume](https://drive.google.com/file/d/1cUEsLyp-gXO2SihaTYf16W2CyhGviVFx/view?usp=sharing)
   
-  ## Recent Project
-   * ✨  [Tradehub_deploy_link](https://tradehub.netlify.app/)
+## Recent Project
+   * ✨ [Tradehub_deploy_link](https://tradehub.netlify.app/)
    * ✨ [Infinity Deploy link](https://prashantinfinity.netlify.app/)
-   * ✨  [Cool-Clothes Deploy link](https://storied-gumption-752ad0.netlify.app/)
+   * ✨ [HealthCare Hospital Deploy link](https://prashantinfinity.netlify.app/)
+   * ✨ [Cool-Clothes Deploy link](https://storied-gumption-752ad0.netlify.app/)
+## Generative AI Projects
+   * ✨ [Code converter](https://code-editor-three-alpha.vercel.app/)--[codebase](https://github.com/Prashantrathour/GAI201/tree/main/editor/code_converter_frontend)
+   * ✨ [Sayari Generater](https://sayari-frontend.vercel.app/)--[codebase](https://github.com/Prashantrathour/sayari_App)
+   * ✨ [Progressio](https://progressiolms.netlify.app/)--[codebase](https://github.com/Prashantrathour/progressio.com)
+
 
 
 <h3 align="left">👇Connect with me:</h3>
