@@ -6,7 +6,7 @@
 
 - 🔭 Check my recent project [Tradehub_codebase](https://github.com/Prashantrathour/stoic-sack-3017)
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **MERN**
 
 - 👯 This is my collaborative project [Tradehub](https://tradehub.netlify.app/)
 
